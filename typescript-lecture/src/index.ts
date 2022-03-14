@@ -1,26 +1,3 @@
-// let fullName: string = "Wahyu Setiawan";
-// let luckyNumber: number = 17;
-// let isMarried: boolean = false;
-// let listOfLuckyNumbers: number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-
-// let fullName2: string;
-
-// fullName2 = true;
-
-// function helloWorld(args: string[]): string {
-//   return "Hello from " + args;
-// }
-
-// helloWorld(["1", "2", "3"]);
-
-// function helloWorld(args: any): string {
-//   return "Hello" + args;
-// }
-
-// const helloArrow = (args: string): any => {
-//   return "Hello" + args;
-// };
-
 // type TFirstName = string;
 
 // type TAddresses = {
